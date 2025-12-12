@@ -122,8 +122,8 @@ This system combines state-of-the-art technologies to create a powerful, evaluab
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/rag-deepeval-system.git
-cd rag-deepeval-system
+git clone https://github.com/abdelaziz2003vvb/Enhanced-RAG-System-with-DeepEval-Evaluation.git
+cd Enhanced-RAG-System-with-DeepEval-Evaluation
 ```
 
 ### Step 2: Install Dependencies
@@ -446,7 +446,7 @@ config.TOP_K = 5
 ## 📁 Project Structure
 
 ```
-rag-deepeval-system/
+Enhanced-RAG-System-with-DeepEval-Evaluation/
 │
 ├── course_rag_22.ipynb          # Main Jupyter notebook
 ├── README.md                     # This file
@@ -518,7 +518,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/rag-deepeval-system.git
+git clone https://github.com/abdelaziz2003vvb/Enhanced-RAG-System-with-DeepEval-Evaluation.git
 
 # Create a virtual environment
 python -m venv venv
